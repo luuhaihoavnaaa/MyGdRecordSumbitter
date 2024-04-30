@@ -1,0 +1,106 @@
+h1 {
+    font-family: 'ADLaM Display';
+    font-size: 22px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+p {
+    font-family: 'Agbalumo';
+    font-size: 22px;
+}
+
+#eade {
+    color: blueviolet;
+    margin: 70px 70px 70px 70px;
+}
+#eade:hover {
+    color: purple;
+}
+#mede {
+    color: pink;
+    margin: 60px 60px 60px 60px;
+}
+#mede:hover {
+    color: palevioletred;
+}
+#hade {
+    color: red;
+    margin: 80px 80px 80px 80px;
+}
+#hade:hover {
+    color: rgb(179, 0, 0);
+}
+#inde {
+    color: rgb(153, 0, 0);
+    margin: 80px 80px 80px 80px;
+}
+#inde:hover {
+    color: rgb(128, 0, 0);
+}
+#exde {
+    color: rgb(102, 0, 0);
+    margin: 40px 40px 40px 40px;
+}
+#exde:hover {
+    color: rgb(77, 0, 0);
+}
+a {
+    display: inline-block;
+    font-family: 'ADLaM Display';
+    font-size: 21px;
+    cursor: pointer;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    padding: 10px;
+    border: none;
+    border-radius: 30px;
+    box-shadow: 0 9px #999;
+}
+a:active {
+    background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+#center {
+    text-align: center;
+}
+
+video {
+    align-self: center;
+}
+
+#main {
+    background-image: url("../res/images/Bg.png");
+}
+
+#xstepv2 {
+    background-image: url("../res/images/XstepV2.png");
+}
+
+#starroad {
+    background-image: url("../res/images/StarRoad.png");
+}
+
+#easydemon {
+    background-image: url("../res/images/EasyDemon.png");
+}
+
+#mediumdemon {
+    background-image: url("../res/images/MediumDemon.png");
+}
+
+#harddemon {
+    background-image: url("../res/images/HardDemon.png");
+}
+
+#insanedemon {
+    background-image: url("../res/images/InsaneDemon.png");
+}
+
+#extremedemon {
+    background-image: url("../res/images/ExtremeDemon.png");
+}
